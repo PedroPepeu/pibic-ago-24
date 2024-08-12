@@ -1,0 +1,6 @@
+# environments
+.venv
+
+# extension
+*.bin
+*.bin.gz
